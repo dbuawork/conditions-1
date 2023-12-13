@@ -10,3 +10,5 @@ print(f"\nResult summ : {result}")
 
 result = n1 * n2 * n3
 print(f"Result multiply : {result}")
+
+
