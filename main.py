@@ -24,6 +24,7 @@ print(not is_valid) # not -> інверсія, якщо значення False �
 #
 print("hello" in "hello world")
 #
+
 #
 #
 #
